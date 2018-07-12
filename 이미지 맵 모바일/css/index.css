@@ -1,0 +1,14 @@
+
+.test{
+  width:1000px;
+  margin:auto;
+}
+
+@media screen and (max-width:320px) {
+  .test{
+    width:100%;
+  }
+  .test img{
+        width:100%;
+  }
+}
